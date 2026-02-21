@@ -1,3 +1,6 @@
 E-Commerce Application
 Product Listing Page
 Checkout System Working
+add to cart functionality implemented(buggy version)
+User Authentication in progress
+Payment Gateway Integration pending
